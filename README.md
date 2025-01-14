@@ -1,3 +1,3 @@
 # RoundRobin_OneThread
 
-![Alt text](../LoadBalancer/Load_balance_images/1.jpg)
+![Alt text](./Load_balance_images/1.jpg)
