@@ -1,4 +1,4 @@
-package RoundRobin;
+package RoundRobin_OneThread;
 
 public class Server {
     private int id;

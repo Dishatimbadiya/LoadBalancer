@@ -1,4 +1,4 @@
-package RoundRobin;
+package RoundRobin_OneThread;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,7 +33,6 @@ public class LoadBalancer {
                 return;
             }
         }
-        System.out.println("curr"+currIndex);
         serverList.get(currIndex).assignRequest(requestId);
         currIndex = (currIndex + 1) % noOfServers;
     }

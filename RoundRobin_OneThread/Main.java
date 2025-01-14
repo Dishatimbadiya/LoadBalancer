@@ -1,4 +1,4 @@
-package RoundRobin;
+package RoundRobin_OneThread;
 import java.util.Scanner;
 public class Main {
     private static volatile boolean running = true;
