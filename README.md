@@ -1,6 +1,6 @@
 # Load Balancer Algorithms
 
-This project demonstrates various load balancing algorithms using visualization and simulation. The goal is to help students and developers understand the functioning of load balancing techniques in a system design context.
+This project demonstrates various load balancing algorithms using simulation. The goal is to help students and developers understand the functioning of load balancing techniques in a system design context.
 
 ---
 
