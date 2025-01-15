@@ -62,22 +62,9 @@ Distributes requests based on a hash value calculated from client or request dat
       git clone https://github.com/your-username/load-balancer-algorithms.git
    ```
 
-2. Navigate to the project directory:
-  ```bash
-     cd load-balancer-algorithms
-  ```
+2. Open the project in intellij idea.
 
-3. Compile the Java code:
-   ```bash
-     javac -d bin src/**/*.java
-   ```
-
-### Usage
-
-1. Run the main program:
-   ```bash
-      java -cp bin RoundRobin.Main
-   ```
+3. Run the main class of respective package:
 
    Follow the console prompts:
   - Input the number of servers.
