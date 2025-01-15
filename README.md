@@ -83,13 +83,13 @@ Distributes requests based on a hash value calculated from client or request dat
   - Input the number of servers.
   - Input requests to simulate the algorithm's behavior.
 
-###Technologies Used
+### Technologies Used
 
 - Java: Core programming language for implementing the algorithms.
 - Git: Version control for tracking changes and collaboration.
 - Markdown: Documentation formatting.
 
-###Contributing
+### Contributing
 
 Contributions are welcome! To contribute:
 
