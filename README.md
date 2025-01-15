@@ -60,7 +60,40 @@ Distributes requests based on a hash value calculated from client or request dat
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/load-balancer-algorithms.git
+   ```
 
 2. Navigate to the project directory:
   ```bash
   cd load-balancer-algorithms
+   ```
+
+3. Compile the Java code:
+   ```bash
+  javac -d bin src/**/*.java
+  ```
+
+### Usage
+
+1. Run the main program:
+   ````bash
+   java -cp bin RoundRobin.Main
+   ```
+
+   Follow the console prompts:
+  - Input the number of servers.
+  - Input requests to simulate the algorithm's behavior.
+
+###Technologies Used
+
+- Java: Core programming language for implementing the algorithms.
+- Git: Version control for tracking changes and collaboration.
+- Markdown: Documentation formatting.
+
+###Contributing
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a feature branch (git checkout -b feature-name).
+3. Commit your changes (git commit -m "Add new feature").
+4. Push to the branch (git push origin feature-name).
+5. Open a Pull Request.
