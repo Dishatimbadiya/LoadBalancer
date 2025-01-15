@@ -65,17 +65,17 @@ Distributes requests based on a hash value calculated from client or request dat
 2. Navigate to the project directory:
   ```bash
   cd load-balancer-algorithms
-   ```
+  ```
 
 3. Compile the Java code:
    ```bash
   javac -d bin src/**/*.java
-  ```
+     ```
 
 ### Usage
 
 1. Run the main program:
-   ````bash
+   ```bash
    java -cp bin RoundRobin.Main
    ```
 
@@ -90,6 +90,7 @@ Distributes requests based on a hash value calculated from client or request dat
 - Markdown: Documentation formatting.
 
 ###Contributing
+
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
